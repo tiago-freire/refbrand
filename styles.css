@@ -1,0 +1,133 @@
+/* Estilos */
+body {
+    padding-top: 20px;
+    padding-bottom: 60px;
+}
+
+.footer {
+    padding-top: 10px;
+    border-top: 3px solid #ccc;
+    background: #fff;
+    height: 50px;
+}
+
+.jumbotron .btn {
+    padding: 14px 24px;
+    font-size: 21px;
+}
+
+#brands [class^=font-] {
+    font-size: 100px;
+    margin-left: 30%;
+    line-height: 1em;
+}
+
+#brands .btn {
+    font-size: 25px;
+}
+
+#brands>div {
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+@media only screen and (max-width: 450px) {
+    #brands [class^=font-] {
+        font-size: 50px;
+        margin-left: 0;
+    }
+}
+
+@media only screen and (min-width: 451px) and (max-width: 767px) {
+    #brands [class^=font-] {
+        font-size: 70px;
+        margin-left: 10%;
+    }
+}
+
+/* Fontes */
+#brands .font-pacifico {
+    font-family: 'Pacifico', cursive;
+    line-height: 1.1em;
+}
+
+#brands .font-gloria {
+    font-family: 'Gloria Hallelujah', cursive;
+    line-height: 0.9em;
+}
+
+#brands .font-lobster {
+    font-family: 'Lobster', cursive;
+}
+
+#brands .font-abril {
+    font-family: 'Abril Fatface', cursive;
+    line-height: 0.75em;
+}
+
+#brands .font-shadows {
+    font-family: 'Shadows Into Light', cursive;
+    line-height: 0.7em;
+}
+
+#brands .font-vampiro {
+    font-family: 'Vampiro One', cursive;
+}
+
+#brands .font-dancing {
+    font-family: 'Dancing Script', cursive;
+}
+
+#brands .font-yellowtail {
+    font-family: 'Yellowtail', cursive;
+}
+
+#brands .font-kaushan {
+    font-family: 'Kaushan Script', cursive;
+}
+
+#brands .font-courgette {
+    font-family: 'Courgette', cursive;
+    line-height: 0.9em;
+}
+
+#brands .font-kalam {
+    font-family: 'Kalam', cursive;
+    line-height: 0.7em;
+}
+
+#brands .font-badscript {
+    font-family: 'Bad Script', cursive;
+}
+
+#brands .font-calligraffitti {
+    font-family: 'Calligraffitti', cursive;
+}
+
+#brands .font-federant {
+    font-family: 'Federant', cursive;
+}
+
+#brands .font-macondo {
+    font-family: 'Macondo', cursive;
+}
+
+#brands .font-seymour {
+    font-family: 'Seymour One';
+    line-height: 0.75em;
+    font-size: 80px;
+}
+
+#brands .font-mrssheppards {
+    font-family: 'Mrs Sheppards', cursive;
+}
+
+#brands .font-ranga {
+    font-family: 'Ranga', cursive;
+    line-height: 0.7em;
+}
+
+#brands .font-macondoswash {
+    font-family: 'Macondo Swash Caps', cursive;
+}
